@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\neven\\OneDrive\\Desktop\\exam-prep-2\\StorySpoiler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B04C3715-C86E-419D-889D-241105A71D91}|StorySpoiler.csproj|c:\\users\\neven\\onedrive\\desktop\\exam-prep-2\\storyspoiler\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B04C3715-C86E-419D-889D-241105A71D91}|StorySpoiler.csproj|solutionrelative:unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04C3715-C86E-419D-889D-241105A71D91}|StorySpoiler.csproj|c:\\users\\neven\\onedrive\\desktop\\exam-prep-2\\storyspoiler\\models\\storydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B04C3715-C86E-419D-889D-241105A71D91}|StorySpoiler.csproj|solutionrelative:models\\storydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04C3715-C86E-419D-889D-241105A71D91}|StorySpoiler.csproj|c:\\users\\neven\\onedrive\\desktop\\exam-prep-2\\storyspoiler\\models\\apiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B04C3715-C86E-419D-889D-241105A71D91}|StorySpoiler.csproj|solutionrelative:models\\apiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B04C3715-C86E-419D-889D-241105A71D91}|StorySpoiler.csproj|c:\\users\\neven\\onedrive\\desktop\\exam-prep-2\\storyspoiler\\storyspoiler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B04C3715-C86E-419D-889D-241105A71D91}|StorySpoiler.csproj|solutionrelative:storyspoiler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 116,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\exam-prep-2\\StorySpoiler\\Models\\StoryDTO.cs",
+              "RelativeDocumentMoniker": "Models\\StoryDTO.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\exam-prep-2\\StorySpoiler\\Models\\StoryDTO.cs",
+              "RelativeToolTip": "Models\\StoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T06:31:44.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\exam-prep-2\\StorySpoiler\\Models\\ApiResponseDTO.cs",
+              "RelativeDocumentMoniker": "Models\\ApiResponseDTO.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\exam-prep-2\\StorySpoiler\\Models\\ApiResponseDTO.cs",
+              "RelativeToolTip": "Models\\ApiResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T06:30:41.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StorySpoiler",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\exam-prep-2\\StorySpoiler\\StorySpoiler.csproj",
+              "RelativeDocumentMoniker": "StorySpoiler.csproj",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\exam-prep-2\\StorySpoiler\\StorySpoiler.csproj",
+              "RelativeToolTip": "StorySpoiler.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-16T06:16:14.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\neven\\OneDrive\\Desktop\\exam-prep-2\\StorySpoiler\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTest1.cs",
+              "ToolTip": "C:\\Users\\neven\\OneDrive\\Desktop\\exam-prep-2\\StorySpoiler\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T06:12:28.809Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
