@@ -1,28 +1,31 @@
 
-
-name: .NET
+name: .NET 8 CI
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ main ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ main ]
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
-  
-    - uses: actions/checkout@v4
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
     - name: Setup .NET
-      uses: actions/setup-dotnet@v4
+      uses: actions/setup-dotnet@v3
       with:
-        dotnet-version: 8.0.x
-    - name: Restore the packages
-      run: dotnet restore
-    - name: Build the solution
-      run: dotnet build --no-restore
-    - name: Tun All Tests
-      run: dotnet test --no-build --verbosity normal
+        dotnet-version: '8.0.x'
+
+    - name: Restore dependencies
+      # Смени пътя към твоя .sln или .csproj файл
+      run: dotnet restore StorySpoiler/StorySpoiler.sln
+
+    - name: Build
+      run: dotnet build StorySpoiler/StorySpoiler.sln --no-restore --configuration Release
+
+    - name: Run tests
+      run: dotnet test StorySpoiler/StorySpoiler.sln --no-build --verbosity normal
